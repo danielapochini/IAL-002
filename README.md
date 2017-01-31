@@ -1,6 +1,9 @@
 # IAL-002
 Códigos desenvolvidos na aula de Algoritmos e Lógica de Programação da Fatec Rubens Lara.
 
+## Ementa 
+Conceitos básicos sobre algoritmos e métodos para sua construção. Tipos de dados e variáveis. Álgebra booleana. Estruturas fundamentais de programas: sequencial, condicional e com repetição. Funções. Variáveis compostas homogêneas: vetores e matrizes. 
+
 ## Conteúdo
 
 * __[Parte I: Introdução à Linguagem Java](src/parteI)__
