@@ -1,5 +1,5 @@
 # IAL-002
-Códigos desenvolvidos na aula de Algoritmos e Lógica de Programação da Fatec Rubens Lara.
+Códigos desenvolvidos para a matéria Algoritmos e Lógica de Programação da Fatec Rubens Lara.
 
 ## Ementa 
 Conceitos básicos sobre algoritmos e métodos para sua construção.   
